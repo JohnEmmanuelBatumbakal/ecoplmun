@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.33"
+        android:scaleY="0.33"
+        android:translateX="21"
+        android:translateY="21">
+        <!-- Left Main Leaf Contour -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="4.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M 108,24 C 70,26 35,42 28,82 C 22,105 32,122 42,128" />
+
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="4.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M 108,24 C 65,48 38,72 28,110 C 26,118 28,124 32,128" />
+
+        <!-- Leaf Veins -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 33,100 C 44,88 56,82 62,80
+                              M 36,82 C 48,70 60,65 68,64
+                              M 43,62 C 55,50 68,44 76,42
+                              M 55,44 C 68,34 82,28 90,26" />
+
+        <!-- Top Right Circle Sweep -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 115,26 C 145,28 172,48 178,74" />
+
+        <!-- Small Leaves / Seeds Cluster in Top Right -->
+        <path
+            android:fillColor="#8CBF3F"
+            android:pathData="M 112,32 C 108,28 112,24 116,26 C 120,28 116,32 112,32 Z
+                              M 122,38 C 118,34 122,30 126,32 C 130,34 126,38 122,38 Z
+                              M 132,26 C 128,22 132,18 136,20 C 140,22 136,26 132,26 Z
+                              M 138,38 C 133,33 137,28 143,31 C 148,34 143,39 138,38 Z
+                              M 148,28 C 144,24 148,20 152,22 C 156,24 152,28 148,28 Z
+                              M 152,40 C 147,35 152,31 157,34 C 161,37 156,41 152,40 Z
+                              M 160,32 C 156,28 160,24 164,26 C 168,28 164,32 160,32 Z
+                              M 165,44 C 161,40 165,36 169,38 C 173,40 169,44 165,44 Z
+                              M 170,56 C 166,52 170,48 174,50 C 178,52 174,56 170,56 Z
+                              M 154,52 C 150,48 154,44 158,46 C 162,48 158,52 154,52 Z
+                              M 158,64 C 154,60 158,56 162,58 C 166,60 162,64 158,64 Z" />
+
+        <!-- Bottom Right Curved Leaf Motif -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="4.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M 68,162 C 110,172 155,160 178,118 C 182,110 180,95 162,72" />
+
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 110,170 C 142,166 168,145 174,120 C 178,102 165,115 152,136" />
+
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 40,126 C 55,152 80,162 120,162" />
+
+        <!-- Central Text: ECO -->
+        <!-- E -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="5.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M 88,72 L 74,72 L 74,100 L 88,100 M 74,86 L 85,86" />
+
+        <!-- C -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="5.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 114,75 C 106,71 96,75 96,86 C 96,97 106,101 114,97" />
+
+        <!-- O -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="5.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 124,86 C 124,73 140,73 140,86 C 140,99 124,99 124,86 Z" />
+
+        <!-- Central Text: PLMUN -->
+        <!-- P -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M 64,112 L 64,138 M 64,112 L 74,112 C 80,112 81,125 74,125 L 64,125" />
+
+        <!-- L -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M 88,112 L 88,138 L 98,138" />
+
+        <!-- M -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M 106,138 L 106,112 L 113,127 L 120,112 L 120,138" />
+
+        <!-- U -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 128,112 L 128,131 C 128,138 138,138 138,131 L 138,112" />
+
+        <!-- N -->
+        <path
+            android:strokeColor="#8CBF3F"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 146,138 L 146,112 L 158,138 L 158,112" />
+    </group>
+</vector>
